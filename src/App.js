@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 
+import './App.css';
 import WeatherSearch from './WeatherSearch';
 
 function App() {
